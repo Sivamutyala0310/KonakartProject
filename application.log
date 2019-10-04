@@ -1,0 +1,653 @@
+2019-10-04 12:24:07,746  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 12:28:24,638  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 12:35:44,264  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 12:37:02,686  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 12:37:47,574  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 12:40:05,186  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 13:02:57,952  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 13:03:11,298 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 13:03:11,303 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 13:03:11,308 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 13:03:11,310 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 13:03:11,311 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 13:03:11,836 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 13:03:11,836 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 13:03:11,837 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 13:03:11,838 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 13:03:11,839 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 13:08:41,203  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 13:08:55,031 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 13:08:55,037 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 13:08:55,038 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 13:08:55,042 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 13:08:55,042 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 13:08:55,522 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 13:08:55,522 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 13:08:55,522 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 13:08:55,526 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 13:08:55,526 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 13:11:55,755  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 14:02:03,085  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 14:02:15,919 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 14:02:15,924 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 14:02:15,928 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 14:02:15,932 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 14:02:15,932 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 14:02:16,380 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 14:02:16,380 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 14:02:16,380 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 14:02:16,380 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 14:02:16,380 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 14:31:10,377  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 14:31:23,222  INFO [main] LogReports:24 - Call Of Duty
+2019-10-04 14:31:24,924  INFO [main] LogReports:24 - Lethal Weapon
+2019-10-04 14:31:26,658  INFO [main] LogReports:24 - Bundle Saver
+2019-10-04 14:31:28,444  INFO [main] LogReports:24 - Galaxy S III
+2019-10-04 14:31:30,152  INFO [main] LogReports:24 - Windows 8
+2019-10-04 14:31:31,093 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 14:31:31,097 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 14:31:31,101 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 14:31:31,105 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 14:31:31,105 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 14:31:31,480 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 14:31:31,481 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 14:31:31,481 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 14:31:31,482 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 14:31:31,482 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 14:58:27,083  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 14:58:40,630  INFO [main] LogReports:24 - Call Of Duty
+2019-10-04 14:58:46,169  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 14:58:58,719  INFO [main] LogReports:24 - Lethal Weapon
+2019-10-04 14:59:04,238  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 14:59:17,823  INFO [main] LogReports:24 - Bundle Saver
+2019-10-04 14:59:23,388  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 14:59:36,311  INFO [main] LogReports:24 - Galaxy S III
+2019-10-04 14:59:41,894  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 14:59:54,458  INFO [main] LogReports:24 - Windows 8
+2019-10-04 14:59:55,346 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 14:59:55,350 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 14:59:55,350 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 14:59:55,354 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 14:59:55,354 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 14:59:55,759 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 14:59:55,759 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 14:59:55,759 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 14:59:55,759 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 14:59:55,759 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 15:55:33,832  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 15:55:47,759  INFO [main] LogReports:24 - Call Of Duty
+2019-10-04 15:55:53,537  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 15:56:06,232  INFO [main] LogReports:24 - Lethal Weapon
+2019-10-04 15:56:12,079  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 15:56:25,623  INFO [main] LogReports:24 - Bundle Saver
+2019-10-04 15:56:31,329  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 15:56:44,213  INFO [main] LogReports:24 - Galaxy S III
+2019-10-04 15:56:50,008  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 15:57:06,752  INFO [main] LogReports:24 - Windows 8
+2019-10-04 15:57:07,834 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 15:57:07,848 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 15:57:07,848 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 15:57:07,848 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 15:57:07,848 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 15:57:08,287 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 15:57:08,287 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 15:57:08,287 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 15:57:08,287 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 15:57:08,287 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 16:42:29,272  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 16:42:42,088  INFO [main] LogReports:24 - Call Of Duty
+2019-10-04 16:42:42,139  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Call Of Duty   Expected data :Call Of Duty
+2019-10-04 16:42:47,947  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 16:43:00,367  INFO [main] LogReports:24 - Lethal Weapon
+2019-10-04 16:43:00,404  INFO [main] LogReports:24 - failed: validated product titles: Actual data : Lethal Weapon   Expected :Call Of Duty
+2019-10-04 16:43:06,124  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 16:43:20,343  INFO [main] LogReports:24 - Bundle Saver
+2019-10-04 16:43:20,368  INFO [main] LogReports:24 - failed: validated product titles: Actual data : Bundle Saver   Expected :Call Of Duty
+2019-10-04 16:43:26,081  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 16:43:42,523  INFO [main] LogReports:24 - Galaxy S III
+2019-10-04 16:43:42,544  INFO [main] LogReports:24 - failed: validated product titles: Actual data : Galaxy S III   Expected :Call Of Duty
+2019-10-04 16:43:48,373  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 16:44:00,875  INFO [main] LogReports:24 - Windows 8
+2019-10-04 16:44:00,915  INFO [main] LogReports:24 - failed: validated product titles: Actual data : Windows 8   Expected :Call Of Duty
+2019-10-04 16:44:01,884 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 16:44:01,896 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 16:44:01,896 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 16:44:01,896 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 16:44:01,896 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 16:44:02,271 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 16:44:02,271 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 16:44:02,271 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 16:44:02,271 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 16:44:02,271 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 16:47:14,262  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 16:47:26,225  INFO [main] LogReports:24 - Call Of Duty
+2019-10-04 16:47:26,263  INFO [main] LogReports:24 - failed: validated product titles: Actual data : Call Of Duty   Expected :Bundle Saver
+2019-10-04 16:47:32,102  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 16:47:55,620  INFO [main] LogReports:24 - Lethal Weapon
+2019-10-04 16:47:55,655  INFO [main] LogReports:24 - failed: validated product titles: Actual data : Lethal Weapon   Expected :Bundle Saver
+2019-10-04 16:48:01,647  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 16:48:17,842  INFO [main] LogReports:24 - Bundle Saver
+2019-10-04 16:48:17,865  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Bundle Saver   Expected data :Bundle Saver
+2019-10-04 16:48:23,728  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 16:48:36,872  INFO [main] LogReports:24 - Galaxy S III
+2019-10-04 16:48:36,895  INFO [main] LogReports:24 - failed: validated product titles: Actual data : Galaxy S III   Expected :Bundle Saver
+2019-10-04 16:48:42,787  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 16:48:54,794  INFO [main] LogReports:24 - Windows 8
+2019-10-04 16:48:54,823  INFO [main] LogReports:24 - failed: validated product titles: Actual data : Windows 8   Expected :Bundle Saver
+2019-10-04 16:48:55,722 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 16:48:55,722 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 16:48:55,722 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 16:48:55,722 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 16:48:55,737 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 16:48:56,086 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 16:48:56,102 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 16:48:56,102 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 16:48:56,103 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 16:48:56,103 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 16:52:31,079  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 16:52:43,965  INFO [main] LogReports:24 - Call Of Duty
+2019-10-04 16:52:44,001  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Call Of Duty   Expected data :Call Of Duty
+2019-10-04 16:52:49,792  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 16:53:02,594  INFO [main] LogReports:24 - Lethal Weapon
+2019-10-04 16:53:02,631  INFO [main] LogReports:24 - failed: validated product titles: Actual data : Lethal Weapon   Expected :Call Of Duty
+2019-10-04 16:53:08,272  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 16:53:25,007  INFO [main] LogReports:24 - Bundle Saver
+2019-10-04 16:53:25,030  INFO [main] LogReports:24 - failed: validated product titles: Actual data : Bundle Saver   Expected :Call Of Duty
+2019-10-04 16:55:14,677  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 16:55:26,953  INFO [main] LogReports:24 - Call Of Duty
+2019-10-04 16:55:26,997  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Call Of Duty   Expected data :Call Of Duty
+2019-10-04 16:55:32,785  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 16:55:47,166  INFO [main] LogReports:24 - Lethal Weapon
+2019-10-04 16:55:47,197  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Lethal Weapon   Expected data :Lethal Weapon
+2019-10-04 16:55:52,806  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 16:56:10,871  INFO [main] LogReports:24 - Bundle Saver
+2019-10-04 16:56:10,894  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Bundle Saver   Expected data :Bundle Saver
+2019-10-04 16:56:16,722  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 16:56:29,945  INFO [main] LogReports:24 - Galaxy S III
+2019-10-04 16:56:29,969  INFO [main] LogReports:24 - failed: validated product titles: Actual data : Galaxy S III   Expected :Galaxy S iii
+2019-10-04 16:56:35,814  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 16:56:50,289  INFO [main] LogReports:24 - Windows 8
+2019-10-04 16:56:50,310  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Windows 8   Expected data :Windows 8
+2019-10-04 16:56:51,289 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 16:56:51,289 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 16:56:51,305 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 16:56:51,307 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 16:56:51,307 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 16:56:51,595 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 16:56:51,595 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 16:56:51,595 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 16:56:51,595 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 16:56:51,595 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 17:30:21,396  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 17:30:33,809  INFO [main] LogReports:24 - Call Of Duty
+2019-10-04 17:30:33,875  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Call Of Duty   Expected data :Call Of Duty
+2019-10-04 17:30:40,199  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 17:30:53,063  INFO [main] LogReports:24 - Lethal Weapon
+2019-10-04 17:30:53,088  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Lethal Weapon   Expected data :Lethal Weapon
+2019-10-04 17:30:58,720  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 17:31:11,974  INFO [main] LogReports:24 - Bundle Saver
+2019-10-04 17:31:11,999  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Bundle Saver   Expected data :Bundle Saver
+2019-10-04 17:31:17,620  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 17:31:30,201  INFO [main] LogReports:24 - Galaxy S III
+2019-10-04 17:31:30,224  INFO [main] LogReports:24 - failed: validated product titles: Actual data : Galaxy S III   Expected :Galaxy S iii
+2019-10-04 17:31:36,067  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 17:31:48,388  INFO [main] LogReports:24 - Windows 8
+2019-10-04 17:31:48,410  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Windows 8   Expected data :Windows 8
+2019-10-04 17:31:58,211  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:00:21,455  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:00:34,107  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Call Of Duty   Expected data :Call Of Duty
+2019-10-04 18:00:39,741  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:00:56,395  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Lethal Weapon   Expected data :Lethal Weapon
+2019-10-04 18:01:02,116  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:01:16,489  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Bundle Saver   Expected data :Bundle Saver
+2019-10-04 18:01:22,215  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:01:34,021  INFO [main] LogReports:24 - failed: validated product titles: Actual data : Galaxy S III   Expected :Galaxy S iii
+2019-10-04 18:01:39,679  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:01:53,311  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Windows 8   Expected data :Windows 8
+2019-10-04 18:01:59,062  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:02:15,823  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Gift Certificate   Expected data :Gift Certificate
+2019-10-04 18:02:21,434  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:02:34,176  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Acctim Metal Clock   Expected data :Acctim Metal Clock
+2019-10-04 18:02:40,023  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:07:04,657  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:07:18,878  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Call Of Duty   Expected data :Call Of Duty
+2019-10-04 18:07:24,544  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:07:38,560  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Lethal Weapon   Expected data :Lethal Weapon
+2019-10-04 18:07:44,222  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:08:01,215  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Bundle Saver   Expected data :Bundle Saver
+2019-10-04 18:08:06,782  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:08:22,796  INFO [main] LogReports:24 - failed: validated product titles: Actual data : Galaxy S III   Expected :Galaxy S iii
+2019-10-04 18:08:28,613  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:08:40,719  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Windows 8   Expected data :Windows 8
+2019-10-04 18:08:46,523  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:08:59,337  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Gift Certificate   Expected data :Gift Certificate
+2019-10-04 18:09:05,000  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:09:20,231  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Acctim Metal Clock   Expected data :Acctim Metal Clock
+2019-10-04 18:09:26,061  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:11:30,202  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:11:43,156  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Call Of Duty   Expected data :Call Of Duty
+2019-10-04 18:11:48,831  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:12:05,119  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Lethal Weapon   Expected data :Lethal Weapon
+2019-10-04 18:12:10,813  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:12:26,736  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Bundle Saver   Expected data :Bundle Saver
+2019-10-04 18:15:09,047  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:15:21,203  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Call Of Duty   Expected data :Call Of Duty
+2019-10-04 18:15:27,091  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:15:39,742  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Lethal Weapon   Expected data :Lethal Weapon
+2019-10-04 18:15:45,735  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:16:00,749  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Bundle Saver   Expected data :Bundle Saver
+2019-10-04 18:16:06,771  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:16:26,779  INFO [main] LogReports:24 - failed: validated product titles: Actual data : Galaxy S III   Expected :Galaxy S iii
+2019-10-04 18:16:32,516  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:16:43,862  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Windows 8   Expected data :Windows 8
+2019-10-04 18:16:49,955  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:17:02,689  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Gift Certificate   Expected data :Gift Certificate
+2019-10-04 18:17:12,856  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:17:24,720  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Acctim Metal Clock   Expected data :Acctim Metal Clock
+2019-10-04 18:17:34,886  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:20:24,494  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:20:37,968  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Call Of Duty   Expected data :Call Of Duty
+2019-10-04 18:20:43,672  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:20:56,520  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Lethal Weapon   Expected data :Lethal Weapon
+2019-10-04 18:21:02,596  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:21:18,129  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Bundle Saver   Expected data :Bundle Saver
+2019-10-04 18:21:23,913  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:21:37,791  INFO [main] LogReports:24 - failed: validated product titles: Actual data : Galaxy S III   Expected :Galaxy S iii
+2019-10-04 18:21:43,737  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:21:56,062  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Windows 8   Expected data :Windows 8
+2019-10-04 18:22:02,019  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:22:15,301  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Gift Certificate   Expected data :Gift Certificate
+2019-10-04 18:22:25,367  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:22:38,920  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Acctim Metal Clock   Expected data :Acctim Metal Clock
+2019-10-04 18:22:44,659  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:22:56,263  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : There are no available products.   Expected data :There are no available products.
+2019-10-04 18:23:02,203  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:23:14,108  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : There are no available products.   Expected data :There are no available products.
+2019-10-04 18:23:19,965  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 18:23:32,457  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : There are no available products.   Expected data :There are no available products.
+2019-10-04 18:23:33,446 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 18:23:33,447 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 18:23:33,449 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 18:23:33,450 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 18:23:33,450 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 18:23:33,748 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 18:23:33,749 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 18:23:33,749 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 18:23:33,750 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 18:23:33,750 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 19:34:50,637  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 19:35:06,141  INFO [main] LogReports:24 - failed: message: Actual data : Product Description   Expected :expected
+2019-10-04 19:35:06,407  INFO [main] LogReports:24 - failed: message: Actual data : Specifications   Expected :expected
+2019-10-04 19:35:07,494 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 19:35:07,497 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 19:35:07,505 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 19:35:07,509 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 19:35:07,509 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 19:35:07,969 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 19:35:07,969 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 19:35:07,969 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 19:35:07,969 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 19:35:07,969 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 19:35:56,191  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 19:36:20,096 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 19:36:20,099 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 19:36:20,101 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 19:36:20,101 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 19:36:20,101 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 19:36:20,528 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 19:36:20,528 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 19:36:20,528 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 19:36:20,528 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 19:36:20,528 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 19:37:25,872  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 19:37:48,809  INFO [main] LogReports:24 - failed: message: Actual data : Product Description   Expected :expected
+2019-10-04 19:37:49,087  INFO [main] LogReports:24 - failed: message: Actual data : Specifications   Expected :expected
+2019-10-04 19:37:50,186 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 19:37:50,190 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 19:37:50,191 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 19:37:50,195 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 19:37:50,195 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 19:37:50,618 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 19:37:50,618 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 19:37:50,618 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 19:37:50,618 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 19:37:50,622 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 19:41:37,010  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 19:41:58,401 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 19:41:58,403 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 19:41:58,404 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 19:41:58,408 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 19:41:58,408 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 19:41:58,820 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 19:41:58,820 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 19:41:58,820 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 19:41:58,820 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 19:41:58,820 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 19:42:18,067  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 19:42:37,470 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 19:42:37,472 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 19:42:37,476 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 19:42:37,480 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 19:42:37,480 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 19:42:37,940 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 19:42:37,944 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 19:42:37,944 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 19:42:37,944 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 19:42:37,944 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 19:42:56,138  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 19:43:12,022 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 19:43:12,025 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 19:43:12,026 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 19:43:12,030 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 19:43:12,030 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 19:43:12,566 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 19:43:12,570 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 19:43:12,570 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 19:43:12,570 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 19:43:12,570 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 19:43:33,492  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 19:44:45,586 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 19:44:45,591 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 19:44:45,595 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 19:44:45,599 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 19:44:45,599 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 19:44:45,995 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 19:44:45,995 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 19:44:45,995 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 19:44:45,995 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 19:44:45,995 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 19:45:17,010  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 19:45:33,241  INFO [main] LogReports:24 - Passed : message: Actual data : Product Description   Expected data :Product Description
+2019-10-04 19:45:33,584  INFO [main] LogReports:24 - Passed : message: Actual data : Specifications   Expected data :Specifications
+2019-10-04 19:45:34,641 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 19:45:34,644 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 19:45:34,644 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 19:45:34,648 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 19:45:34,648 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 19:45:35,060 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 19:45:35,060 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 19:45:35,060 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 19:45:35,060 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 19:45:35,060 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 19:48:54,787  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 19:49:09,665  INFO [main] LogReports:24 - Passed : message: Actual data : Product Description   Expected data :Product Description
+2019-10-04 19:49:09,971  INFO [main] LogReports:24 - Passed : message: Actual data : Specifications   Expected data :Specifications
+2019-10-04 19:49:10,959 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 19:49:10,962 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 19:49:10,964 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 19:49:10,964 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 19:49:10,964 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 19:49:11,384 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 19:49:11,388 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 19:49:11,388 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 19:49:11,388 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 19:49:11,388 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 19:50:20,267  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 19:50:40,935 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 19:50:40,941 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 19:50:40,945 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 19:50:40,949 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 19:50:40,953 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 19:50:41,377 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 19:50:41,381 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 19:50:41,381 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 19:50:41,381 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 19:50:41,381 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 19:54:28,763  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 19:54:41,259  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Call Of Duty   Expected data :Call Of Duty
+2019-10-04 19:54:47,057  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 19:54:59,868  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Lethal Weapon   Expected data :Lethal Weapon
+2019-10-04 19:55:05,644  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 19:55:19,877  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Bundle Saver   Expected data :Bundle Saver
+2019-10-04 19:55:25,641  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 19:55:37,979  INFO [main] LogReports:24 - failed: validated product titles: Actual data : Galaxy S III   Expected :Galaxy S iii
+2019-10-04 19:55:43,724  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 19:55:55,553  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Windows 8   Expected data :Windows 8
+2019-10-04 19:56:05,346  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 19:56:17,699  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Gift Certificate   Expected data :Gift Certificate
+2019-10-04 19:56:23,326  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 19:56:41,025  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : Acctim Metal Clock   Expected data :Acctim Metal Clock
+2019-10-04 19:56:50,864  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 19:57:02,793  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : There are no available products.   Expected data :There are no available products.
+2019-10-04 19:57:08,457  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 19:57:19,372  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : There are no available products.   Expected data :There are no available products.
+2019-10-04 19:57:25,093  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 19:57:36,424  INFO [main] LogReports:24 - Passed : validated product titles: Actual data : There are no available products.   Expected data :There are no available products.
+2019-10-04 19:57:37,418 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 19:57:37,418 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 19:57:37,422 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 19:57:37,422 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 19:57:37,426 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 19:57:37,737 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 19:57:37,741 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 19:57:37,743 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 19:57:37,743 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 19:57:37,743 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 20:33:00,911  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 20:33:19,075  INFO [main] LogReports:24 - Passed : message: Actual data : Product Description   Expected data :Product Description
+2019-10-04 20:33:19,348  INFO [main] LogReports:24 - Passed : message: Actual data : Specifications   Expected data :Specifications
+2019-10-04 20:33:20,479 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 20:33:20,494 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 20:33:20,495 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 20:33:20,495 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 20:33:20,495 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 20:33:20,963 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 20:33:20,963 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 20:33:20,963 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 20:33:20,963 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 20:33:20,963 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 20:39:12,899  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 20:39:33,743 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 20:39:33,744 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 20:39:33,747 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 20:39:33,748 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 20:39:33,749 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 20:39:34,105 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 20:39:34,105 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 20:39:34,106 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 20:39:34,106 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 20:39:34,106 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 20:39:54,629  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 20:40:12,297  INFO [main] LogReports:24 - Passed : message: Actual data : Product Description   Expected data :Product Description
+2019-10-04 20:40:12,580  INFO [main] LogReports:24 - Passed : message: Actual data : Specifications   Expected data :Specifications
+2019-10-04 20:40:13,675 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 20:40:13,679 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 20:40:13,680 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 20:40:13,680 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 20:40:13,680 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 20:40:14,008 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 20:40:14,008 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 20:40:14,008 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 20:40:14,008 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 20:40:14,008 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 20:40:39,528  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 20:41:00,308  INFO [main] LogReports:24 - Passed : message: Actual data : Product Description   Expected data :Product Description
+2019-10-04 20:41:00,696  INFO [main] LogReports:24 - Passed : message: Actual data : Specifications   Expected data :Specifications
+2019-10-04 20:41:01,781 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 20:41:01,783 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 20:41:01,785 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 20:41:01,788 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 20:41:01,789 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 20:41:02,233 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 20:41:02,234 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 20:41:02,235 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 20:41:02,235 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 20:41:02,236 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 21:05:19,149  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 21:05:33,960 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 21:05:33,962 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 21:05:33,964 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 21:05:33,965 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 21:05:33,966 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 21:05:34,429 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 21:05:34,430 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 21:05:34,430 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 21:05:34,431 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 21:05:34,432 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 21:05:50,881  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 21:06:28,819  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 21:06:41,211 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 21:06:41,213 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 21:06:41,215 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 21:06:41,217 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 21:06:41,217 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 21:06:41,652 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 21:06:41,653 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 21:06:41,653 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 21:06:41,654 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 21:06:41,655 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 21:06:56,315  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 21:07:54,978 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 21:07:54,980 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 21:07:54,984 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 21:07:54,986 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 21:07:54,987 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 21:07:55,318 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 21:07:55,319 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 21:07:55,319 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 21:07:55,320 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 21:07:55,321 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 21:12:34,671  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 21:12:53,818  INFO [main] LogReports:24 - Passed : validated Product Description: Actual data : Product Description   Expected data :Product Description
+2019-10-04 21:12:54,117  INFO [main] LogReports:24 - Passed : validated Product Specifications: Actual data : Specifications   Expected data :Specifications
+2019-10-04 21:12:55,547 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 21:12:55,550 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 21:12:55,553 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 21:12:55,555 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 21:12:55,556 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 21:12:55,943 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 21:12:55,944 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 21:12:55,944 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 21:12:55,945 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 21:12:55,945 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 21:17:33,461  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 21:17:52,577  INFO [main] LogReports:24 - Passed : validated Product Description: Actual data : Product Description   Expected data :Product Description
+2019-10-04 21:17:55,871  INFO [main] LogReports:24 - Passed : validated Product Specifications: Actual data : Specifications   Expected data :Specifications
+2019-10-04 21:17:57,649 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 21:17:57,651 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 21:17:57,653 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 21:17:57,655 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 21:17:57,656 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 21:17:57,996 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 21:17:57,996 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 21:17:57,997 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 21:17:57,997 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 21:17:57,997 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 21:20:43,227  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 21:21:01,055  INFO [main] LogReports:24 - Passed : validated Product Description: Actual data : Product Description   Expected data :Product Description
+2019-10-04 21:21:03,368  INFO [main] LogReports:24 - Passed : validated Product Specifications: Actual data : Specifications   Expected data :Specifications
+2019-10-04 21:21:07,024 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 21:21:07,026 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 21:21:07,029 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 21:21:07,031 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 21:21:07,031 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 21:21:07,429 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 21:21:07,430 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 21:21:07,430 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 21:21:07,431 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 21:21:07,431 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 21:32:50,004  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 21:33:06,875  INFO [main] LogReports:24 - Passed : validated Product Description: Actual data : Product Description   Expected data :Product Description
+2019-10-04 21:33:09,164  INFO [main] LogReports:24 - Passed : validated Product Specifications: Actual data : Specifications   Expected data :Specifications
+2019-10-04 21:33:11,863  INFO [main] LogReports:24 - Passed : validated customer Specifications: Actual data : Thursday 7 July 2016   Expected data :Thursday 7 July 2016
+2019-10-04 21:33:15,098  INFO [main] LogReports:24 - Passed : validated customer Specifications: Actual data : Friday 6 December 2013   Expected data :Friday 6 December 2013
+2019-10-04 21:33:16,016 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 21:33:16,019 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 21:33:16,021 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 21:33:16,022 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 21:33:16,023 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 21:33:16,349 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 21:33:16,349 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 21:33:16,350 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 21:33:16,350 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 21:33:16,350 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 22:29:31,995  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 22:29:49,721  INFO [main] LogReports:24 - Passed : validated Product Description: Actual data : Product Description   Expected data :Product Description
+2019-10-04 22:29:52,071  INFO [main] LogReports:24 - Passed : validated Product Specifications: Actual data : Specifications   Expected data :Specifications
+2019-10-04 22:29:54,748  INFO [main] LogReports:24 - Passed : validated MostRecentFirst field: Actual data : Thursday 7 July 2016   Expected data :Thursday 7 July 2016
+2019-10-04 22:29:57,872  INFO [main] LogReports:24 - Passed : validated MostRecentFirst field: Actual data : Friday 6 December 2013   Expected data :Friday 6 December 2013
+2019-10-04 22:29:59,094 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 22:29:59,099 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 22:29:59,099 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 22:29:59,103 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 22:29:59,103 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 22:29:59,527 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 22:29:59,527 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 22:29:59,527 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 22:29:59,527 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 22:29:59,527 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 22:45:14,663  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 22:45:33,074  INFO [main] LogReports:24 - Passed : validated Product Description: Actual data : Product Description   Expected data :Product Description
+2019-10-04 22:45:35,522  INFO [main] LogReports:24 - Passed : validated Product Specifications: Actual data : Specifications   Expected data :Specifications
+2019-10-04 22:45:38,236  INFO [main] LogReports:24 - Passed : validated MostRecentFirst field: Actual data : Thursday 7 July 2016   Expected data :Thursday 7 July 2016
+2019-10-04 22:45:41,336  INFO [main] LogReports:24 - Passed : validated MostRecentFirst field: Actual data : Friday 6 December 2013   Expected data :Friday 6 December 2013
+2019-10-04 22:45:42,630 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 22:45:42,633 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 22:45:42,634 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 22:45:42,634 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 22:45:42,638 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 22:45:43,106 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 22:45:43,106 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 22:45:43,110 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 22:45:43,110 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 22:45:43,110 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 22:47:42,745  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 22:48:00,088  INFO [main] LogReports:24 - Passed : validated Product Description: Actual data : Product Description   Expected data :Product Description
+2019-10-04 22:48:02,429  INFO [main] LogReports:24 - Passed : validated Product Specifications: Actual data : Specifications   Expected data :Specifications
+2019-10-04 22:48:05,142  INFO [main] LogReports:24 - Passed : validated MostRecentFirst field: Actual data : Thursday 7 July 2016   Expected data :Thursday 7 July 2016
+2019-10-04 22:48:08,367  INFO [main] LogReports:24 - Passed : validated MostRecentFirst field: Actual data : Friday 6 December 2013   Expected data :Friday 6 December 2013
+2019-10-04 22:48:09,612 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 22:48:09,616 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 22:48:09,616 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 22:48:09,620 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 22:48:09,620 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 22:48:09,952 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 22:48:09,956 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 22:48:09,956 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 22:48:09,956 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 22:48:09,956 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 22:49:18,859  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 22:49:36,679  INFO [main] LogReports:24 - Passed : validated Product Description: Actual data : Product Description   Expected data :Product Description
+2019-10-04 22:49:39,001  INFO [main] LogReports:24 - Passed : validated Product Specifications: Actual data : Specifications   Expected data :Specifications
+2019-10-04 22:49:41,654  INFO [main] LogReports:24 - failed: validated MostRecentFirst field: Actual data : Wednesday 16 October 2013   Expected :Thursday 7 July 2016
+2019-10-04 22:49:44,780  INFO [main] LogReports:24 - failed: validated MostRecentFirst field: Actual data : Thursday 7 February 2013   Expected :Friday 6 December 2013
+2019-10-04 22:49:45,958 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 22:49:45,964 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 22:49:45,965 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 22:49:45,969 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 22:49:45,969 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 22:49:46,389 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 22:49:46,389 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 22:49:46,389 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 22:49:46,389 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 22:49:46,389 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 22:59:02,820  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 22:59:20,737  INFO [main] LogReports:24 - Passed : validated Product Description: Actual data : Product Description   Expected data :Product Description
+2019-10-04 22:59:23,076  INFO [main] LogReports:24 - Passed : validated Product Specifications: Actual data : Specifications   Expected data :Specifications
+2019-10-04 22:59:25,849  INFO [main] LogReports:24 - failed: validated MostRecentFirst field: Actual data : Wednesday 16 October 2013   Expected :Thursday 7 July 2016
+2019-10-04 22:59:29,064  INFO [main] LogReports:24 - failed: validated MostRecentFirst field: Actual data : Thursday 7 February 2013   Expected :Friday 6 December 2013
+2019-10-04 22:59:30,351 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 22:59:30,357 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 22:59:30,358 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 22:59:30,362 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 22:59:30,362 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 22:59:30,797 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 22:59:30,797 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 22:59:30,801 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 22:59:30,801 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 22:59:30,801 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 23:11:10,755  INFO [main] LogReports:24 - Chrome browser  started
+2019-10-04 23:11:30,185  INFO [main] LogReports:24 - Passed : validated Product Description: Actual data : Product Description   Expected data :Product Description
+2019-10-04 23:11:32,517  INFO [main] LogReports:24 - Passed : validated Product Specifications: Actual data : Specifications   Expected data :Specifications
+2019-10-04 23:11:35,313  INFO [main] LogReports:24 - failed: validated MostRecentFirst field: Actual data : Wednesday 16 October 2013   Expected :Thursday 7 July 2016
+2019-10-04 23:11:38,839  INFO [main] LogReports:24 - failed: validated MostRecentFirst field: Actual data : Thursday 7 February 2013   Expected :Friday 6 December 2013
+2019-10-04 23:11:42,168 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 23:11:42,172 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 23:11:42,176 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 23:11:42,180 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 23:11:42,180 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-04 23:11:42,612 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-04 23:11:42,615 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-04 23:11:42,615 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-04 23:11:42,616 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-04 23:11:42,617 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
