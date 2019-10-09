@@ -19,7 +19,10 @@ public class konaKartXpathDataAllocators
 	String validateCustomerReviewsTab;
 	String selectReviewSort;
 	String validateCustomerReviewDetails;
-	String firstHighToLowRating;
+	String firstStarRating;
+	String secondStarRating;
+	String thirdStarRating;
+	String  fouthStarRating;
 	Properties properties;
 
 	public void getData() throws IOException {
@@ -37,19 +40,58 @@ public class konaKartXpathDataAllocators
 		setValidateCustomerReviewsTab();
 		setSelectReviewSort();
 		setValidateCustomerReviewDetails();
-		setFirstHighToLowRating();
+		setfirstStarRating();
+		setSecondStarRating();
+		setThirdStarRating();
+		setFouthStarRating();
 	}
 	
 	
 		
-		public String getFirstHighToLowRating() {
-		return firstHighToLowRating;
+		public String getSecondStarRating() {
+		return secondStarRating;
 	}
 
 
 
-	public void setFirstHighToLowRating() {
-		firstHighToLowRating =properties.getProperty("firstHighToLowRating") ;
+	public void setSecondStarRating() {
+		secondStarRating =properties.getProperty("secondStarRating") ;
+	}
+
+
+
+	public String getThirdStarRating() {
+		return thirdStarRating;
+	}
+
+
+
+	public void setThirdStarRating() {
+		thirdStarRating =properties.getProperty("thirdStarRating") ;
+	}
+
+
+
+	public String getFouthStarRating() {
+		return fouthStarRating;
+	}
+
+
+
+	public void setFouthStarRating() {
+		fouthStarRating =properties.getProperty("fourthStarRating");
+	}
+
+
+
+		public String getfirstStarRating() {
+		return firstStarRating;
+	}
+
+
+
+	public void setfirstStarRating() {
+		firstStarRating =properties.getProperty("firstStarRating") ;
 	}
 
 
@@ -146,12 +188,6 @@ public class konaKartXpathDataAllocators
 	public void setClickOnSearchFieldXpath() {
 		clickOnSearchFieldXpath =  properties.getProperty("clickOnSearchFieldXpath");
 	}
-
-
-
-
-
-
 
 		public static void main(String[] args) throws IOException {
 			konaKartXpathDataAllocators  keys = new konaKartXpathDataAllocators ();

@@ -1,5 +1,7 @@
 package com.atmecs.konakart.pageactions;
 
+import java.util.List;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.Keys;
@@ -85,6 +87,13 @@ public class PageActions
 		public static void navigateBack(WebDriver driver)
 		{
 			driver.navigate().back();
+		}
+		
+		public static List<WebElement> findListOfElements(WebDriver driver,String Xpath) throws Exception
+		{
+			Thread.sleep(2000);
+		List<WebElement> starRating=driver.findElements(By.xpath(Xpath));
+		return starRating;
 		}
 
 	}

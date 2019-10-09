@@ -18,11 +18,11 @@ public class KonakartHeroImage extends InvokeBrowser {
 		startReport();
 	}
    @Test
-	public void validateHeroImagePage() throws Exception {
+	public  void validateHeroImagePage() throws Exception {
 
 		ExtentReport.logger = extent.startTest("validateHeroImagePage");
-		
 		HelperHeroImagePage.validateHeroImage();
+		
 
 	}
 }

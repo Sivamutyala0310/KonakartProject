@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="38967" started-at="2019-10-04T17:41:03Z" finished-at="2019-10-04T17:41:42Z">
+  <suite name="Default suite" duration-ms="51861" started-at="2019-10-09T16:20:29Z" finished-at="2019-10-09T16:21:21Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="38967" started-at="2019-10-04T17:41:03Z" finished-at="2019-10-04T17:41:42Z">
+    <test name="Default test" duration-ms="51861" started-at="2019-10-09T16:20:29Z" finished-at="2019-10-09T16:21:21Z">
       <class name="com.atmecs.konakart.testscripts.KonakartHeroImage">
-        <test-method status="PASS" signature="startReports()[pri:0, instance:com.atmecs.konakart.testscripts.KonakartHeroImage@3a5ed7a6]" name="startReports" is-config="true" duration-ms="180" started-at="2019-10-04T17:41:03Z" finished-at="2019-10-04T17:41:03Z">
+        <test-method status="PASS" signature="startReports()[pri:0, instance:com.atmecs.konakart.testscripts.KonakartHeroImage@3a5ed7a6]" name="startReports" is-config="true" duration-ms="340" started-at="2019-10-09T16:20:29Z" finished-at="2019-10-09T16:20:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startReports -->
-        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:com.atmecs.konakart.testscripts.KonakartHeroImage@3a5ed7a6]" name="initializeBrowser" is-config="true" duration-ms="19460" started-at="2019-10-04T17:41:03Z" finished-at="2019-10-04T17:41:23Z">
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:com.atmecs.konakart.testscripts.KonakartHeroImage@3a5ed7a6]" name="initializeBrowser" is-config="true" duration-ms="17679" started-at="2019-10-09T16:20:30Z" finished-at="2019-10-09T16:20:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeBrowser -->
-        <test-method status="PASS" signature="validateHeroImagePage()[pri:0, instance:com.atmecs.konakart.testscripts.KonakartHeroImage@3a5ed7a6]" name="validateHeroImagePage" duration-ms="17834" started-at="2019-10-04T17:41:23Z" finished-at="2019-10-04T17:41:41Z">
+        <test-method status="PASS" signature="validateHeroImagePage()[pri:0, instance:com.atmecs.konakart.testscripts.KonakartHeroImage@3a5ed7a6]" name="validateHeroImagePage" duration-ms="31539" started-at="2019-10-09T16:20:47Z" finished-at="2019-10-09T16:21:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateHeroImagePage -->
-        <test-method status="PASS" signature="getReport(org.testng.ITestResult)[pri:0, instance:com.atmecs.konakart.testscripts.KonakartHeroImage@3a5ed7a6]" name="getReport" is-config="true" duration-ms="8" started-at="2019-10-04T17:41:41Z" finished-at="2019-10-04T17:41:41Z">
+        <test-method status="PASS" signature="getReport(org.testng.ITestResult)[pri:0, instance:com.atmecs.konakart.testscripts.KonakartHeroImage@3a5ed7a6]" name="getReport" is-config="true" duration-ms="8" started-at="2019-10-09T16:21:19Z" finished-at="2019-10-09T16:21:19Z">
           <params>
             <param index="0">
               <value>
@@ -30,7 +30,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getReport -->
-        <test-method status="PASS" signature="getClose()[pri:0, instance:com.atmecs.konakart.testscripts.KonakartHeroImage@3a5ed7a6]" name="getClose" is-config="true" duration-ms="1463" started-at="2019-10-04T17:41:41Z" finished-at="2019-10-04T17:41:42Z">
+        <test-method status="PASS" signature="getClose()[pri:0, instance:com.atmecs.konakart.testscripts.KonakartHeroImage@3a5ed7a6]" name="getClose" is-config="true" duration-ms="2235" started-at="2019-10-09T16:21:19Z" finished-at="2019-10-09T16:21:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getClose -->
